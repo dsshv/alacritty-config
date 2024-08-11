@@ -23,10 +23,10 @@ print_events = false
 render_timer = false
 
 [font]
-size = 12.0
+size = 14.0
 
 [font.bold]
-family = "Jetbrains Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Bold"
 
 [font.glyph_offset]
@@ -34,11 +34,11 @@ x = 0
 y = 0
 
 [font.italic]
-family = "Jetbrains Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Light Italic"
 
 [font.normal]
-family = "JetBrains Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Regular"
 
 [font.offset]
