@@ -1,0 +1,52 @@
+
+# 0x From the Ubuntu terminal color palette
+
+# 0x Default colors
+[colors.primary]
+background = '#1b1e25'
+foreground = '#ffffff'
+
+# 0x Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '#090a0a'
+cursor = '#e1a2b7'
+
+# 0x Normal colors
+[colors.normal]
+black   = '#293352'
+red     = '#ffccdd'
+green   = '#ccf5ff'
+yellow  = '#fff8cc'
+blue    = '#9aade6'
+magenta = '#9ad7e6'
+cyan    = '#e6dc9a'
+white   = '#ffccdd'
+
+# black   = '#57668f'
+# red     = '#f0aac1'
+# green   = '#aae2f0'
+# yellow  = '#f0e7aa'
+# blue    = '#9aade6'
+# magenta = '#9ad7e6'
+# cyan    = '#e6dc9a'
+# white   = '#f0aac1'
+
+# 0x Bright colors
+[colors.bright]
+black   = '#57668f'
+red     = '#f0aac1'
+green   = '#aae2f0'
+yellow  = '#f0e7aa'
+blue    = '#9aade6'
+magenta = '#9ad7e6'
+cyan    = '#e6dc9a'
+white   = '#f0aac1'
+
+# black   = '#293352'
+# red     = '#ffccdd'
+# green   = '#ccf5ff'
+# yellow  = '#fff8cc'
+# blue    = '#9aade6'
+# magenta = '#9ad7e6'
+# cyan    = '#e6dc9a'
+# white   = '#ffccdd'
